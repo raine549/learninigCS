@@ -1,0 +1,16 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+#should ignore bin
+bin/
+
+.vs/
+
+OOP.csproj
+
+OOP.sln
+
+obj/
